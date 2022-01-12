@@ -1,0 +1,8 @@
+# DevCesar
+.devcesarconfig
+
+# npm 
+node_modules
+
+# Codesandbox
+.codesandbox
